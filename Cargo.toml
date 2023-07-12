@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "vql",
+    "vql-macros",
+    "vql-utils",
+]

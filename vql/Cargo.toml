@@ -1,0 +1,12 @@
+[package]
+name = "vql"
+version = "0.1.0"
+edition = "2021"
+description = "Macros for the vql crate."
+license = "MIT"
+repository = "https://github.com/mrvillage/vql"
+documentation = "https://docs.rs/vql"
+readme = "../README.md"
+
+[dependencies]
+macros-core = "0.2"

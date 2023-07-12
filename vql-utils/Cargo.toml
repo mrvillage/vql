@@ -1,0 +1,16 @@
+[package]
+name = "vql-utils"
+version = "0.1.0"
+edition = "2021"
+description = "Utils for the vql crate."
+license = "MIT"
+repository = "https://github.com/mrvillage/vql"
+documentation = "https://docs.rs/vql"
+readme = "../README.md"
+
+[dependencies]
+macros-core = "0.2"
+
+# [dependencies.sqlx]
+# version = "0.6"
+# default-features = false
